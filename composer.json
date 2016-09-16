@@ -1,0 +1,19 @@
+{
+    "name": "method-es/fcm-xmpp-server",
+    "require": {
+        "react/socket-client": "^0.5.0",
+        "react/stream": "^0.4.4",
+        "league/climate": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Method\\FCM\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Keaton Johnstone",
+            "email": "method@methodweb.net"
+        }
+    ]
+}
